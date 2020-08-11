@@ -9,6 +9,7 @@ def find_element_index(array, value_to_find)
   # assign index number to variable 
   found_value_index = i
 end 
+i+= 1 
 end 
 found_value_index
 end
